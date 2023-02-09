@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1640390836 source:c:\users\ousse\documents\uni stuff\gestion de fiche paie\employer.c
+	<stdio.h>
+	<stdlib.h>
+	"employer.h"
+	"Structure.h"
+
+1640384384 c:\users\ousse\documents\uni stuff\gestion de fiche paie\employer.h
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+
+1637513765 c:\users\ousse\documents\uni stuff\gestion de fiche paie\structure.h
+
+1640471294 source:c:\users\ousse\documents\uni stuff\gestion de fiche paie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"employer.h"
+	"Structure.h"
+	<time.h>
+
